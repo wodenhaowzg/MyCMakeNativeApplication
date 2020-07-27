@@ -2,7 +2,7 @@
 // Created by 王志国 on 18/8/22.
 //
 
-#include "localincludes/ChildJni.h"
+#include "ChildJni.h"
 #include <unistd.h>
 #include <sys/syscall.h>
 #define SYS_gettid __NR_gettid

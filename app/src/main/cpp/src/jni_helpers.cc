@@ -7,7 +7,7 @@
  *  in the file PATENTS.  All contributing project authors may
  *  be found in the AUTHORS file in the root of the source tree.
  */
-#include "localincludes/jni_helpers.h"
+#include "jni_helpers.h"
 
 #include <pthread.h>
 #include <android/log.h>

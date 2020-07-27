@@ -4,8 +4,8 @@
 
 #include <android/log.h>
 #include <string>
-#include "localincludes/ChildJni.h"
-#include "localincludes/SecondChildJni.h"
+#include "ChildJni.h"
+#include "SecondChildJni.h"
 
 #define LOG_TAG "wzg"
 #define LOGI(...)  __android_log_print(ANDROID_LOG_INFO , LOG_TAG , __VA_ARGS__)

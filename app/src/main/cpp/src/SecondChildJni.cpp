@@ -2,7 +2,7 @@
 // Created by 王志国 on 18/8/24.
 //
 
-#include "localincludes/SecondChildJni.h"
+#include "SecondChildJni.h"
 #include <media/NdkMediaCodec.h>
 
 std::string mClassPath = "com/azx/jni/MySecondJni";
